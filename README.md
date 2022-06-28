@@ -1,4 +1,4 @@
-# chrome_translate_helper
+# chrome_translate_helper 狗狗译
 eyuyan 开发的小工具，已开源。
 
 通过抓取chrome翻译内存，把英文文本截取并逐段保存供用户复制，提供实时翻译接入功能
