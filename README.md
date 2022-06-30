@@ -28,8 +28,11 @@ eyuyan 开发的小工具，已开源。
 
 
 # 截图
+![image](https://github.com/jlwebs/chrome_translate_helper/blob/master/1.gif)
 
-# 打赏一瓶水
+![image](https://github.com/jlwebs/chrome_translate_helper/blob/master/2.gif)
+# 打赏一瓶水 alipay
+![image](https://github.com/jlwebs/chrome_translate_helper/blob/master/ali.png)
 
 # 未完成
 
